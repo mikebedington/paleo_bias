@@ -1,0 +1,145 @@
+"","alpha.3","name","alpha.2","country.code","iso_3166.2","region","sub.region","region.code","sub.region.code","x","y","index"
+"1","AFG","Afghanistan","AF",4,"ISO 3166-2:AF","Asia","Southern Asia",142,34,22,8,-1.6094379124341
+"2","AGO","Angola","AO",24,"ISO 3166-2:AO","Africa","Middle Africa",2,17,13,17,-0.0953101798043249
+"3","ALB","Albania","AL",8,"ISO 3166-2:AL","Europe","Southern Europe",150,39,15,9,0
+"4","ARE","United Arab Emirates","AE",784,"ISO 3166-2:AE","Asia","Western Asia",142,145,20,10,-0.78845736036427
+"5","ARG","Argentina","AR",32,"ISO 3166-2:AR","Americas","South America",19,5,6,14,2.73421991883559
+"6","ARM","Armenia","AM",51,"ISO 3166-2:AM","Asia","Western Asia",142,145,20,6,0.810930216216329
+"7","ATG","Antigua & Barbuda","AG",28,"ISO 3166-2:AG","Americas","Caribbean",19,29,7,4,-1.38629436111989
+"8","AUS","Australia","AU",36,"ISO 3166-2:AU","Oceania","Australia and New Zealand",9,53,24,19,1.91411756125445
+"9","AUT","Austria","AT",40,"ISO 3166-2:AT","Europe","Western Europe",150,155,15,6,0.191454040357227
+"10","AZE","Azerbaijan","AZ",31,"ISO 3166-2:AZ","Asia","Western Asia",142,145,21,7,0.287682072451781
+"11","BEL","Belgium","BE",56,"ISO 3166-2:BE","Europe","Western Europe",150,155,13,5,0.922521281624791
+"12","BGD","Bangladesh","BD",50,"ISO 3166-2:BD","Asia","Southern Asia",142,34,23,8,-0.693147180559945
+"13","BGR","Bulgaria","BG",100,"ISO 3166-2:BG","Europe","Eastern Europe",150,151,17,7,1.41706601978664
+"14","BHS","Bahamas","BS",44,"ISO 3166-2:BS","Americas","Caribbean",19,29,4,2,-1.6094379124341
+"15","BIH","Bosnia & Herzegovina","BA",70,"ISO 3166-2:BA","Europe","Southern Europe",150,39,15,7,-0.916290731874155
+"16","BLR","Belarus","BY",112,"ISO 3166-2:BY","Europe","Eastern Europe",150,151,17,4,1.38629436111989
+"17","BLZ","Belize","BZ",84,"ISO 3166-2:BZ","Americas","Central America",19,13,2,3,-1.79175946922805
+"18","BOL","Bolivia","BO",68,"ISO 3166-2:BO","Americas","South America",19,5,6,11,0.0157483569681391
+"19","BRA","Brazil","BR",76,"ISO 3166-2:BR","Americas","South America",19,5,8,11,1.23060876157455
+"20","BRB","Barbados","BB",52,"ISO 3166-2:BB","Americas","Caribbean",19,29,8,6,-0.847297860387204
+"21","BRN","Brunei Darussalam","BN",96,"ISO 3166-2:BN","Asia","South-Eastern Asia",142,35,25,12,0
+"22","CAN","Canada","CA",124,"ISO 3166-2:CA","Americas","Northern America",19,21,1,1,1.24215091276888
+"23","CHE","Switzerland","CH",756,"ISO 3166-2:CH","Europe","Western Europe",150,155,14,5,1.34223437132586
+"24","CHL","Chile","CL",152,"ISO 3166-2:CL","Americas","South America",19,5,6,13,0.678332094774805
+"25","CHN","China","CN",156,"ISO 3166-2:CN","Asia","Eastern Asia",142,30,24,6,2.65795236411943
+"26","CMR","Cameroon","CM",120,"ISO 3166-2:CM","Africa","Middle Africa",2,17,14,15,0
+"27","COL","Colombia","CO",170,"ISO 3166-2:CO","Americas","South America",19,5,5,9,-0.490206336563255
+"28","CRI","Costa Rica","CR",188,"ISO 3166-2:CR","Americas","Central America",19,13,3,7,0.944461608840852
+"29","CUB","Cuba","CU",192,"ISO 3166-2:CU","Americas","Caribbean",19,29,4,3,0.693147180559945
+"30","CYP","Cyprus","CY",196,"ISO 3166-2:CY","Asia","Western Asia",142,145,17,10,-1.50407739677627
+"31","CZE","Czech Republic","CZ",203,"ISO 3166-2:CZ","Europe","Eastern Europe",150,151,15,5,1.28785428830664
+"32","DEU","Germany","DE",276,"ISO 3166-2:DE","Europe","Western Europe",150,155,14,4,1.38283215339142
+"33","DNK","Denmark","DK",208,"ISO 3166-2:DK","Europe","Northern Europe",150,154,14,3,0.543615446588982
+"34","DOM","Dominican Republic","DO",214,"ISO 3166-2:DO","Americas","Caribbean",19,29,6,4,-2.865920662032
+"35","DZA","Algeria","DZ",12,"ISO 3166-2:DZ","Africa","Northern Africa",2,15,13,11,0.243622082657751
+"36","ECU","Ecuador","EC",218,"ISO 3166-2:EC","Americas","South America",19,5,5,10,-0.385662480811985
+"37","EGY","Egypt","EG",818,"ISO 3166-2:EG","Africa","Northern Africa",2,15,16,11,-0.107630664192365
+"38","ERI","Eritrea","ER",232,"ISO 3166-2:ER","Africa","Eastern Africa",2,14,16,13,Inf
+"39","ESP","Spain","ES",724,"ISO 3166-2:ES","Europe","Southern Europe",150,39,12,6,1.72653057871546
+"40","EST","Estonia","EE",233,"ISO 3166-2:EE","Europe","Northern Europe",150,154,17,2,1.46151778235748
+"41","ETH","Ethiopia","ET",231,"ISO 3166-2:ET","Africa","Eastern Africa",2,14,17,14,-0.693147180559945
+"42","FIN","Finland","FI",246,"ISO 3166-2:FI","Europe","Northern Europe",150,154,17,1,Inf
+"43","FJI","Fiji","FJ",242,"ISO 3166-2:FJ","Oceania","Melanesia",9,54,27,19,-2.19722457733622
+"44","FRA","France","FR",250,"ISO 3166-2:FR","Europe","Western Europe",150,155,12,5,1.56968372367468
+"45","GAB","Gabon","GA",266,"ISO 3166-2:GA","Africa","Middle Africa",2,17,14,17,Inf
+"46","GBR","Great Britain and Northern Ireland","UK",826,"ISO 3166-2:GB","Europe","Northern Europe",150,154,11,4,1.42825856021892
+"47","GEO","Georgia","GE",268,"ISO 3166-2:GE","Asia","Western Asia",142,145,21,6,0.262364264467491
+"48","GHA","Ghana","GH",288,"ISO 3166-2:GH","Africa","Western Africa",2,11,13,14,Inf
+"49","GRC","Greece","GR",300,"ISO 3166-2:GR","Europe","Southern Europe",150,39,16,9,0.859274051433919
+"50","GRL","Greenland","GL",304,"ISO 3166-2:GL","Americas","Northern America",19,21,8,1,-1.79175946922805
+"51","GTM","Guatemala","GT",320,"ISO 3166-2:GT","Americas","Central America",19,13,1,4,0
+"52","HRV","Croatia","HR",191,"ISO 3166-2:HR","Europe","Southern Europe",150,39,14,7,0.356674943938732
+"53","HTI","Haiti","HT",332,"ISO 3166-2:HT","Americas","Caribbean",19,29,5,4,-0.182321556793955
+"54","HUN","Hungary","HU",348,"ISO 3166-2:HU","Europe","Eastern Europe",150,151,16,6,1.62531126159039
+"55","IDN","Indonesia","ID",360,"ISO 3166-2:ID","Asia","South-Eastern Asia",142,35,25,13,-0.583947888594953
+"56","IND","India","IN",356,"ISO 3166-2:IN","Asia","Southern Asia",142,34,22,9,1.85989727439527
+"57","IRL","Ireland","IE",372,"ISO 3166-2:IE","Europe","Northern Europe",150,154,10,4,0.462623521948113
+"58","IRN","Iran (Islamic Republic of)","IR",364,"ISO 3166-2:IR","Asia","Southern Asia",142,34,20,8,0.777230297770487
+"59","IRQ","Iraq","IQ",368,"ISO 3166-2:IQ","Asia","Western Asia",142,145,20,7,1.17865499634165
+"60","ISL","Iceland","IS",352,"ISO 3166-2:IS","Europe","Northern Europe",150,154,10,1,Inf
+"61","ISR","Israel","IL",376,"ISO 3166-2:IL","Asia","Western Asia",142,145,18,10,-0.146603474191875
+"62","ITA","Italy","IT",380,"ISO 3166-2:IT","Europe","Southern Europe",150,39,13,7,1.48807705542983
+"63","JAM","Jamaica","JM",388,"ISO 3166-2:JM","Americas","Caribbean",19,29,4,4,0.610909082322973
+"64","JOR","Jordan","JO",400,"ISO 3166-2:JO","Asia","Western Asia",142,145,18,8,0.559615787935423
+"65","JPN","Japan","JP",392,"ISO 3166-2:JP","Asia","Eastern Asia",142,30,27,6,3.44041809481544
+"66","KAZ","Kazakhstan","KZ",398,"ISO 3166-2:KZ","Asia","Central Asia",142,143,24,5,-0.391478866133425
+"67","KEN","Kenya","KE",404,"ISO 3166-2:KE","Africa","Eastern Africa",2,14,17,15,-0.534082485930258
+"68","KGZ","Kyrgyzstan","KG",417,"ISO 3166-2:KG","Asia","Central Asia",142,143,23,6,-0.842182759720433
+"69","KHM","Cambodia","KH",116,"ISO 3166-2:KH","Asia","South-Eastern Asia",142,35,25,10,Inf
+"70","KNA","St. Kitts & Nevis","KN",659,"ISO 3166-2:KN","Americas","Caribbean",19,29,6,5,0
+"71","KOR","South Korea","KR",410,"ISO 3166-2:KR","Asia","Eastern Asia",142,30,25,7,2.68102152871429
+"72","LAO","Lao People's Democratic Republic","LA",418,"ISO 3166-2:LA","Asia","South-Eastern Asia",142,35,25,9,0.22314355131421
+"73","LBN","Lebanon","LB",422,"ISO 3166-2:LB","Asia","Western Asia",142,145,18,9,-0.0425596144187959
+"74","LBY","Libya","LY",434,"ISO 3166-2:LY","Africa","Northern Africa",2,15,15,11,-0.336472236621213
+"75","LCA","St. Lucia","LC",662,"ISO 3166-2:LC","Americas","Caribbean",19,29,7,5,Inf
+"76","LKA","Sri Lanka","LK",144,"ISO 3166-2:LK","Asia","Southern Asia",142,34,22,11,-0.693147180559945
+"77","LTU","Lithuania","LT",440,"ISO 3166-2:LT","Europe","Northern Europe",150,154,16,4,0.196710294246054
+"78","LUX","Luxembourg","LU",442,"ISO 3166-2:LU","Europe","Western Europe",150,155,13,6,0.492476485097794
+"79","LVA","Latvia","LV",428,"ISO 3166-2:LV","Europe","Northern Europe",150,154,17,3,1.01160091167848
+"80","MAR","Morocco","MA",504,"ISO 3166-2:MA","Africa","Northern Africa",2,15,12,11,-0.665201250169386
+"81","MDA","Moldova (Republic of)","MD",498,"ISO 3166-2:MD","Europe","Eastern Europe",150,151,18,5,1.6094379124341
+"82","MDG","Madagascar","MG",450,"ISO 3166-2:MG","Africa","Eastern Africa",2,14,19,19,-1.12846525181779
+"83","MEX","Mexico","MX",484,"ISO 3166-2:MX","Americas","Central America",19,13,1,3,0.888511167767079
+"84","MKD","Macedonia","MK",807,"ISO 3166-2:MK","Europe","Southern Europe",150,39,17,8,-0.693147180559945
+"85","MLI","Mali","ML",466,"ISO 3166-2:ML","Africa","Western Africa",2,11,14,12,1.70474809223843
+"86","MLT","Malta","MT",470,"ISO 3166-2:MT","Europe","Southern Europe",150,39,11,8,0.336472236621213
+"87","MMR","Myanmar","MM",104,"ISO 3166-2:MM","Asia","South-Eastern Asia",142,35,24,8,-2.61452414309139
+"88","MNG","Mongolia","MN",496,"ISO 3166-2:MN","Asia","Eastern Asia",142,30,25,5,-0.440971796565074
+"89","MOZ","Mozambique","MZ",508,"ISO 3166-2:MZ","Africa","Eastern Africa",2,14,16,17,1.38629436111989
+"90","MUS","Mauritius","MU",480,"ISO 3166-2:MU","Africa","Eastern Africa",2,14,19,20,-2.63905732961526
+"91","MWI","Malawi","MW",454,"ISO 3166-2:MW","Africa","Eastern Africa",2,14,15,17,0.693147180559945
+"92","MYS","Malaysia","MY",458,"ISO 3166-2:MY","Asia","South-Eastern Asia",142,35,24,11,0.693147180559945
+"93","NAM","Namibia",NA,516,"ISO 3166-2:NA","Africa","Southern Africa",2,18,15,19,-2.05412373369555
+"94","NER","Niger","NE",562,"ISO 3166-2:NE","Africa","Western Africa",2,11,15,12,-0.446287102628419
+"95","NGA","Nigeria","NG",566,"ISO 3166-2:NG","Africa","Western Africa",2,11,13,15,0.8754687373539
+"96","NIC","Nicaragua","NI",558,"ISO 3166-2:NI","Americas","Central America",19,13,2,6,Inf
+"97","NLD","Netherlands","NL",528,"ISO 3166-2:NL","Europe","Western Europe",150,155,13,4,1.82074700610131
+"98","NOR","Norway","NO",578,"ISO 3166-2:NO","Europe","Northern Europe",150,154,15,1,0.424883193965266
+"99","NPL","Nepal","NP",524,"ISO 3166-2:NP","Asia","Southern Asia",142,34,23,9,-1.25276296849537
+"100","NZL","New Zealand","NZ",554,"ISO 3166-2:NZ","Oceania","Australia and New Zealand",9,53,26,21,1.46885596181291
+"101","OMN","Oman","OM",512,"ISO 3166-2:OM","Asia","Western Asia",142,145,19,11,-0.89199803930511
+"102","PAK","Pakistan","PK",586,"ISO 3166-2:PK","Asia","Southern Asia",142,34,21,8,0.0840831172105414
+"103","PAN","Panama","PA",591,"ISO 3166-2:PA","Americas","Central America",19,13,4,8,-0.194156014440958
+"104","PER","Peru","PE",604,"ISO 3166-2:PE","Americas","South America",19,5,5,11,0.305381649551182
+"105","PHL","Philippines","PH",608,"ISO 3166-2:PH","Asia","South-Eastern Asia",142,35,26,11,0.0953101798043249
+"106","POL","Poland","PL",616,"ISO 3166-2:PL","Europe","Eastern Europe",150,151,15,4,1.38066054340163
+"107","PRK","North Korea","KP",408,"ISO 3166-2:KP","Asia","Eastern Asia",142,30,25,6,0.693147180559945
+"108","PRT","Portugal","PT",620,"ISO 3166-2:PT","Europe","Southern Europe",150,39,11,6,0.841567185678219
+"109","PRY","Paraguay","PY",600,"ISO 3166-2:PY","Americas","South America",19,5,6,12,0.916290731874155
+"110","ROU","Romania","RO",642,"ISO 3166-2:RO","Europe","Eastern Europe",150,151,17,6,2.47092040781326
+"111","RUS","Russian Federation","RU",643,"ISO 3166-2:RU","Europe","Eastern Europe",150,151,25,4,0.785048542843767
+"112","SAU","Saudi Arabia","SA",682,"ISO 3166-2:SA","Asia","Western Asia",142,145,19,9,0.451985123743057
+"113","SDN","Sudan","SD",729,"ISO 3166-2:SD","Africa","Northern Africa",2,15,16,12,-0.336472236621213
+"114","SEN","Senegal","SN",686,"ISO 3166-2:SN","Africa","Western Africa",2,11,13,12,1.94591014905531
+"115","SLV","El Salvador","SV",222,"ISO 3166-2:SV","Americas","Central America",19,13,1,5,0
+"116","SOM","Somalia","SO",706,"ISO 3166-2:SO","Africa","Eastern Africa",2,14,18,14,-1.94591014905531
+"117","SRB","Serbia","RS",688,"ISO 3166-2:RS","Europe","Southern Europe",150,39,16,7,2.42774823594805
+"118","SVK","Slovakia","SK",703,"ISO 3166-2:SK","Europe","Eastern Europe",150,151,16,5,1.01160091167848
+"119","SVN","Slovenia","SI",705,"ISO 3166-2:SI","Europe","Southern Europe",150,39,14,6,1.29928298413026
+"120","SWE","Sweden","SE",752,"ISO 3166-2:SE","Europe","Northern Europe",150,154,16,1,0.559615787935423
+"121","SWZ","Swaziland","SZ",748,"ISO 3166-2:SZ","Africa","Southern Africa",2,18,16,19,Inf
+"122","SYC","Seychelles","SC",690,"ISO 3166-2:SC","Africa","Eastern Africa",2,14,18,17,-1.79175946922805
+"123","SYR","Syria","SY",760,"ISO 3166-2:SY","Asia","Western Asia",142,145,19,7,-0.22314355131421
+"124","TCD","Chad","TD",148,"ISO 3166-2:TD","Africa","Middle Africa",2,17,14,13,2.01490302054226
+"125","TGO","Togo","TG",768,"ISO 3166-2:TG","Africa","Western Africa",2,11,14,14,-1.38629436111989
+"126","THA","Thailand","TH",764,"ISO 3166-2:TH","Asia","South-Eastern Asia",142,35,24,10,1.31984926171174
+"127","TJK","Tajikistan","TJ",762,"ISO 3166-2:TJ","Asia","Central Asia",142,143,23,7,-0.65677953638907
+"128","TKM","Turkmenistan","TM",795,"ISO 3166-2:TM","Asia","Central Asia",142,143,22,7,-0.587786664902119
+"129","TLS","Timor-Leste","TL",626,"ISO 3166-2:TL","Asia","South-Eastern Asia",142,35,25,14,-1.09861228866811
+"130","TTO","Trinidad & Tobago","TT",780,"ISO 3166-2:TT","Americas","Caribbean",19,29,7,9,0.182321556793955
+"131","TUN","Tunisia","TN",788,"ISO 3166-2:TN","Africa","Northern Africa",2,15,14,11,0.171850256926659
+"132","TUR","Turkey","TR",792,"ISO 3166-2:TR","Asia","Western Asia",142,145,18,7,0.490910314065049
+"133","TZA","Tanzania","TZ",834,"ISO 3166-2:TZ","Africa","Eastern Africa",2,14,17,16,-1.40982485853008
+"134","UGA","Uganda","UG",800,"ISO 3166-2:UG","Africa","Eastern Africa",2,14,16,15,-1.33500106673234
+"135","UKR","Ukraine","UA",804,"ISO 3166-2:UA","Europe","Eastern Europe",150,151,17,5,0.799756915618204
+"136","URY","Uruguay","UY",858,"ISO 3166-2:UY","Americas","South America",19,5,7,12,3.3499040872746
+"137","USA","United States of America","US",840,"ISO 3166-2:US","Americas","Northern America",19,21,1,2,2.36407017664473
+"138","UZB","Uzbekistan","UZ",860,"ISO 3166-2:UZ","Asia","Central Asia",142,143,22,6,-1.09861228866811
+"139","VCT","St. Vincent & the Grenadines","VC",670,"ISO 3166-2:VC","Americas","Caribbean",19,29,7,6,Inf
+"140","VEN","Venezuela","VE",862,"ISO 3166-2:VE","Americas","South America",19,5,6,9,1.03609193168678
+"141","VNM","Viet Nam","VN",704,"ISO 3166-2:VN","Asia","South-Eastern Asia",142,35,26,9,1.04145387482816
+"142","ZAF","South Africa","ZA",710,"ISO 3166-2:ZA","Africa","Southern Africa",2,18,16,20,1.15552042093999
+"143","ZMB","Zambia","ZM",894,"ISO 3166-2:ZM","Africa","Eastern Africa",2,14,14,18,-2.07944154167984
+"144","ZWE","Zimbabwe","ZW",716,"ISO 3166-2:ZW","Africa","Eastern Africa",2,14,16,18,0.405465108108164
