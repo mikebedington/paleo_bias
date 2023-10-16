@@ -1,5 +1,4 @@
 import numpy as np
-import numpy as np
 from urllib.request import urlopen
 import json
 import matplotlib.pyplot as plt
@@ -9,15 +8,17 @@ input_dict = np.load('gplates_input.npy', allow_pickle=True).item()
 ll = input_dict['orig_ll']
 
 time_list = np.arange(360, 425, 5)
+#time_list = np.arange(0, 420, 20)
+
 output_pts = {}
 for this_time in time_list:
     output_pts[this_time] = []
 output_poly = {}
 
 first = True
-block_size = 100
+block_size = 200
 last_step = int(np.ceil(len(ll)/block_size))
-for this_block in np.arange(1, last_step):
+for this_block in np.arange(0, last_step):
     if this_block == last_step - 1:
         this_ll = ll[this_block*block_size:,:]
     else:
@@ -51,6 +52,9 @@ for this_block in np.arange(1, last_step):
 for this_time in output_pts.keys():
     output_pts[this_time] = np.vstack(output_pts[this_time])
 
+np.save('out_pts.npy', output_pts)
+np.save('out_poly.npy', output_poly)
+
 for time in time_list:
     print(f'Plotting time: {time}')
     plt.figure(figsize=[18,16])
@@ -59,6 +63,8 @@ for time in time_list:
     plt.scatter(pt_ll[:,0], pt_ll[:,1], c='r', zorder=2)
     for poly_ll in output_poly[time]:
         plt.plot(poly_ll[:,0], poly_ll[:,1], c='darkgray', linewidth=0.5)
+    plt.xlim([-180,180])
+    plt.ylim([-90,90])
     plt.savefig(f'plot_new_{time}.png', dpi=180)
     plt.close()
 
